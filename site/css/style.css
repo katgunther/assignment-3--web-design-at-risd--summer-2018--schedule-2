@@ -22,7 +22,7 @@ p{
 
 h1{
    font-family: 'Inconsolata', monospace;
-   color: white;
+   color: #0467E8;
    font-weight: 400;
    font-size: 6rem;
 }
@@ -33,21 +33,12 @@ h2{
    font-weight: 200;
 }
 
-
-
-
-
 section {
    height: 800px;
    display: flex;
 }
 
-section:nth-child(1) {
-   background:#ddd4d5 url('as-little.jpg') no-repeat fixed 50% 50% / cover;
-   font-size: 3rem;
-   text-align: center;
 
-}
 
 section:nth-child(2) {
    background-color: black;
